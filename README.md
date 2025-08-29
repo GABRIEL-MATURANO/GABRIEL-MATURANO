@@ -5,7 +5,7 @@ Soy **Desarrollador de Software** en formación, actualmente estudiante de la ca
 
 ## 🚀 Experiencia académica y proyectos
 - 🖥️ **Aplicación en C# .NET Framework**  
-  Desarrollo de un sistema con arquitectura en 5 capas conectado a **SQL Server** mediante **Entity Framework**. Incluye ABM de emergencias médicas, recursos, asignación de móviles y gestión de estados.  
+  Desarrollo de un sistema con arquitectura en 5 capas conectado a **SQL Server** mediante **Entity Framework** y **Web api - Rest full**. Incluye ABM de emergencias médicas, recursos, asignación de móviles y gestión de estados.  
   👉 [Ver proyecto](https://github.com/GABRIEL-MATURANO/Emergency2025)  
 
 - 🌐 **Página web para emprendimiento de ventas**  
@@ -16,7 +16,7 @@ Soy **Desarrollador de Software** en formación, actualmente estudiante de la ca
 
 ## 💻 Tecnologías y habilidades
 - **Lenguajes:** C#, JavaScript, SQL, HTML5, CSS, SCSS (SASS)  
-- **Frameworks & Tools:** .NET Framework, Node.js, Blazor, Bootstrap  
+- **Frameworks & Tools:** .NET Framework, Web api - Rest full, Entity Framework , Blazor, Bootstrap  
 - **Bases de datos:** MySQL Server, SQL Server  
 - **Control de versiones:** Git & GitHub  
 
