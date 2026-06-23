@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Cristian Gabriel Maturano  
 
-Soy **Desarrollador de Software** en formación, actualmente estudiante de la carrera Técnico Superior en Desarrollo de Software (ITSC, Córdoba).
+Soy **Desarrollador de Software** en formación, actualmente en busca de una oportunidad laboral.
 ---
 
 ## 🚀 Experiencia académica y proyectos
